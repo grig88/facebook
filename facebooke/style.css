@@ -1,0 +1,160 @@
+ html,body{
+     margin:0 ;
+     padding: 0;
+     background-color:#e9ebee ;
+ }
+
+
+.box{
+
+    width:100%;
+    height: 90px;
+    background-color:#3b5998;
+    
+}
+
+ h1{
+     
+     margin-left: 500px;
+     color: white;
+     padding: 10px;
+     font-size: 42px; 
+     bottom: 10px;
+     position:relative;
+  
+ }
+
+ 
+
+ .facebook{
+    display: inline-block;
+ }
+    
+     .div1{
+        margin-right: 250px;
+        height: 30%;
+    
+     }
+ 
+  .div2{
+      margin-right: 180px;
+      bottom: 870px;
+      
+
+  }
+
+   .div3{
+      bottom: 435px;
+      position: absolute;
+      margin-left: -80px;
+     
+   }
+
+
+  .div4{
+    background:#4267b2;
+    color:white;
+    font-size: 10pt;  
+    
+    
+  }
+ 
+   h5{
+   color: white;
+   bottom: 38px;
+   position:relative;
+   }
+   
+  a{
+    color:#9cb4d8;
+    position: relative;
+    bottom: 415px;
+    margin-left: -78px;
+  }
+   
+  input{
+      bottom: 870px;
+      position: absolute;
+  }
+
+ .p{
+     color:white;
+     bottom: 420px;
+     position: relative; 
+ }
+
+.div5{
+    margin-left: 1000px;
+    position: relative;
+    color: black;
+}
+ .div6{
+    margin-left: 1015px;
+    position: relative;
+    color: black;
+    bottom: 70px;
+ }
+  .div7{
+   padding: 8px;
+   bottom: 690px;
+   margin-left: -92px;
+  }
+
+  .div8{
+      padding: 8px;
+      bottom: 690px;
+      margin-left: 45px;
+  }
+
+  .div9{
+      padding: 8px;
+      bottom: 645px;
+      margin-left: -88.5px;
+  }
+
+  .div10{
+      padding: 8px;
+      bottom: 599px;
+      margin-left: -54.5px;
+  }
+  
+   
+  .div11{
+    bottom: -48px;
+    margin-left: 1015px;
+    position: relative;
+    
+  }   
+
+  .div12{
+      bottom: -18px;
+      position: relative;
+      margin-left: 1080px;
+  }
+  .div13{
+      position: relative;
+      bottom: -18px;
+      margin-left: -4px;
+  }
+
+  .div14{
+    color:#909fbe;
+    margin-left: 1015px;
+    bottom: -60px;
+    position: relative;
+}
+
+.div15{
+    color:#909fbe;
+    margin-left: 1015px;
+    bottom: -10px;
+    position: relative;
+}
+ 
+.div17{
+    padding: 9px;
+    bottom: 300px;
+    margin-left: -23px;
+}
+ 
+ 
